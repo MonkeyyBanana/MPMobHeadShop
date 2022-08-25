@@ -1,0 +1,15 @@
+name: MonkeyMobHeadShop
+author: KingMonkeyy
+version: 1.16.3
+api-version: 1.13
+main: com.stinkymonkey.headshop.main
+depend: [Vault]
+
+commands: 
+  headshop:
+    description: gui
+    
+permissions:
+  MonkeyMHS.gui:
+    default: true
+    description: Access Gui

@@ -1,0 +1,6 @@
+settings:
+  guiName: "&3Mob &fHead &3Shop"
+head1:
+  name: "Blaze"
+  slot: 0
+  price: 1000.0
